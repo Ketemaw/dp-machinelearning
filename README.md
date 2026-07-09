@@ -1,6 +1,7 @@
 # Machine Learning App 
 
-This is Machine learning App
+This is a machine learning App
+
 Description of the app ...
 
 ## Demo App
